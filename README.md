@@ -1,4 +1,4 @@
-# BooTani_ML - Forecasting Harga Pangan
+# BooTani ML - Forecasting Harga Pangan
 ## Deskripsi Proyek
 Proyek ini merupakan bagian dari program Bangkit, bertujuan untuk melakukan forecasting harga pangan menggunakan teknik machine learning. Forecasting harga pangan adalah aspek penting dalam bidang ekonomi dan pertanian karena dapat membantu para petani, pedagang, dan pembuat kebijakan dalam mengambil keputusan yang lebih baik.
 
